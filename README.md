@@ -1,6 +1,5 @@
 #### I am very interested in web development and try to learn a lot of new things there.
-<br>
-##### That's all I can think of to write here.
+##### *That's all I can think of to write here.*
 
 
 Discord:
