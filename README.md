@@ -1,5 +1,5 @@
-#### I am very interested in web development and server technology and try to learn a lot of new things...
-##### *That's all I can think of to write here.*
+I am very interested in web development and server technology and try to learn a lot of new things...
+*That's all I can think of to write here.*
 
 
 Discord:
