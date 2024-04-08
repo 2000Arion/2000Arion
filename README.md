@@ -4,15 +4,4 @@ I am very interested in web development and server technology and try to learn a
 
 Discord:
 
-
-
-
-
-
-
-
-
-
-
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/760155365710102549)](https://discord.com/users/760155365710102549)
