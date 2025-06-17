@@ -1,6 +1,6 @@
-I am very interested in web development and server technology and try to learn a lot of new things...
-*That's all I can think of to write here.*
+**I am very interested in web development, self-hosting and cloud technology.**
 
+I'm always open to new ideas and love to try out new stuff. Check out [my regularly updated list](https://github.com/2000Arion?tab=stars) of software tools I actively use and recommend 💪 (or at least have experience installing and using).
 
 Discord:
 
